@@ -34,10 +34,27 @@
 <br />
 
 
-### 화면 구성
-|Screen #1|Screen #2|
-|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="400"/>|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
+### 화면 구성(요약)
+|로그인|
+|:---:|
+|<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/Login.png?raw=true" width="100%"/>|
+
+|홈화면|
+|:---:|
+|<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/홈화면.png?raw=true" width="100%"/>|
+
+|본인인증|
+|:---:|
+|<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/본인인증2.png?raw=true" width="100%"/>|
+
+|충전소|
+|:---:|
+|<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/충전소.png?raw=true" width="100%"/>|
+
+|AIChatBot|
+|:---:|
+|<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/AiChat.png?raw=true" width="100%"/>|
+
 <br />
 
 ## ⚙ 기술 스택
