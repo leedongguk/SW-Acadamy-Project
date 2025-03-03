@@ -51,11 +51,11 @@
 |:---:|
 |<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/충전소.png?raw=true" width="100%"/>|
 
-|AIChatBot|
+|지도(로드뷰)|
 |:---:|
 |<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/1.png?raw=true" width="100%"/>|
 
-|지도(로드뷰)|
+|AICHATBOT|
 |:---:|
 |<img src="https://github.com/leedongguk/SW-Acadamy-Project/blob/main/image/AiChat.png?raw=true" width="100%"/>|
 
