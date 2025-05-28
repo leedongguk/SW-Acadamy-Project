@@ -9,6 +9,11 @@
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.05.01~2024.06.02-green?style=flat&logo=&logoColor=white" />]()
 
+<a href="https://youtu.be/ncX_sXPGzZs" target="_blank">
+  <img src="https://github.com/leedongguk/SW-Acadamy-Project/raw/main/image/Login.png?raw=true" width="640" alt="RCG 유튜브 데모 영상">
+</a>
+<p>📺 프로젝트 시연 영상 보러가기</p>
+
 </div> 
 
 ## 📝 소개
